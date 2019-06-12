@@ -1,0 +1,19 @@
+{
+  "name": "bower-angular-translate",
+  "version": "2.2.0",
+  "description": "bower angular translate for npm",
+  "main": "angular-translate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanjanMR/bower-angular-translate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RanjanMR/bower-angular-translate/issues"
+  },
+  "homepage": "https://github.com/RanjanMR/bower-angular-translate#readme"
+}
